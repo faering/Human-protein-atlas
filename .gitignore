@@ -1,0 +1,11 @@
+# ignore jupyter notebook checkpoints cache
+.ipynb_checkpoints
+
+# ignore DS_Store files
+.DS_Store
+
+# ignore ZIP files
+*.zip
+
+# ignore all files in the directory named input
+/input
